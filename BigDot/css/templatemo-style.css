@@ -41,6 +41,9 @@ h2 span
 		padding-top: 60px;
 		padding-bottom: 40px;
 	}
+	#marca img{
+		width: 150px;
+	}
 /* end about team service portfolio contact */
 
 /* start preloader */
